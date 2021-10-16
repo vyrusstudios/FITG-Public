@@ -1,0 +1,10 @@
+:en:condescending:hey:So, you're back...
+:en:considering:hey:What do you want?
+:en:threatening:hey:You got me fired from my job for trying to protect the studio.
+:en:condescending:hey:You stole our code and took down our most successful game.
+:en:threatening:hey:And you angered Nova into ruining our entire reputation.
+:en:considering:hey:What more do you want?
+:gf:awkward:hey:Well actually, we were kind of here to apologize for what h-
+:en:threatening:hey:Shut it.
+:en:considering:hey:I don't want to hear it.
+:en:condescending:hey:Lets just get this over with.

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Aaron_Portraits.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PortExcited0000" x="10" y="10" width="768" height="768" frameX="0" frameY="-32" frameWidth="781" frameHeight="800"/>
+	<SubTexture name="PortExcited0001" x="10" y="10" width="768" height="768" frameX="-4" frameY="-24" frameWidth="781" frameHeight="800"/>
+	<SubTexture name="PortExcited0002" x="10" y="10" width="768" height="768" frameX="-7" frameY="-16" frameWidth="781" frameHeight="800"/>
+	<SubTexture name="PortExcited0003" x="10" y="10" width="768" height="768" frameX="-10" frameY="-8" frameWidth="781" frameHeight="800"/>
+	<SubTexture name="PortExcited0004" x="10" y="10" width="768" height="768" frameX="-13" frameY="0" frameWidth="781" frameHeight="800"/>
+	<SubTexture name="PortIdle0000" x="788" y="10" width="768" height="768" frameX="0" frameY="-19" frameWidth="869" frameHeight="787"/>
+	<SubTexture name="PortIdle0001" x="788" y="10" width="768" height="768" frameX="-15" frameY="-16" frameWidth="869" frameHeight="787"/>
+	<SubTexture name="PortIdle0002" x="788" y="10" width="768" height="768" frameX="-29" frameY="-12" frameWidth="869" frameHeight="787"/>
+	<SubTexture name="PortIdle0003" x="788" y="10" width="768" height="768" frameX="-44" frameY="-8" frameWidth="869" frameHeight="787"/>
+	<SubTexture name="PortIdle0004" x="788" y="10" width="768" height="768" frameX="-58" frameY="-4" frameWidth="869" frameHeight="787"/>
+	<SubTexture name="PortIdle0005" x="788" y="10" width="768" height="768" frameX="-73" frameY="0" frameWidth="869" frameHeight="787"/>
+	<SubTexture name="PortIdle0006" x="788" y="10" width="768" height="768" frameX="-87" frameY="-2" frameWidth="869" frameHeight="787"/>
+	<SubTexture name="PortIdle0007" x="788" y="10" width="768" height="768" frameX="-101" frameY="-3" frameWidth="869" frameHeight="787"/>
+	<SubTexture name="PortScraps0000" x="10" y="788" width="800" height="800" frameX="0" frameY="-19" frameWidth="901" frameHeight="819"/>
+	<SubTexture name="PortScraps0001" x="10" y="788" width="800" height="800" frameX="-15" frameY="-16" frameWidth="901" frameHeight="819"/>
+	<SubTexture name="PortScraps0002" x="10" y="788" width="800" height="800" frameX="-29" frameY="-12" frameWidth="901" frameHeight="819"/>
+	<SubTexture name="PortScraps0003" x="10" y="788" width="800" height="800" frameX="-44" frameY="-8" frameWidth="901" frameHeight="819"/>
+	<SubTexture name="PortScraps0004" x="10" y="788" width="800" height="800" frameX="-58" frameY="-4" frameWidth="901" frameHeight="819"/>
+	<SubTexture name="PortScraps0005" x="10" y="788" width="800" height="800" frameX="-73" frameY="0" frameWidth="901" frameHeight="819"/>
+	<SubTexture name="PortScraps0006" x="10" y="788" width="800" height="800" frameX="-87" frameY="-2" frameWidth="901" frameHeight="819"/>
+	<SubTexture name="PortScraps0007" x="10" y="788" width="800" height="800" frameX="-101" frameY="-3" frameWidth="901" frameHeight="819"/>
+</TextureAtlas>

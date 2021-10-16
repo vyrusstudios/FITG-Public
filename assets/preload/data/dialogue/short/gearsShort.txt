@@ -1,0 +1,6 @@
+:bf:excited:hey:We're here!
+:gf:confused:hey:Yeah! You would imagine they would have some security inside the studios though?
+:aaron:idle:hey:THREAT DETECTED
+:bf:scared:Uh oh!
+:none:none:none:Watch out for gear notes! Hitting them increases the scroll speed
+:none:none:none:While missing them decreases the scroll speed.

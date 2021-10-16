@@ -1,0 +1,17 @@
+:none:none:hey:Nathan shoots at Aaron, triggering his self defense mode.
+:none:none:hey:But just as Aaron was about to lunge toward the three, hes brought to a stop.
+:none:none:hey:The robot, now floating in mid air, is surrounded by a strange green aura.
+:bf:scared:hey:...
+:gf:scared:hey:What the funk?
+:bf:scared:hey:Woah... did I awaken some super ability I wasn't aware of?
+:nathan:explaining:hey:Nah, thats just him.
+:bf:confused:hey:Oh, you mean that friend you mentioned?
+:nard:introduce:hey:The name's Nard, I presume Nathan's already told you about me?
+:gf:explaining:hey:Not by name, but yes, actually.
+:nathan:confused:hey:So..... how'd it go?
+:nard:annoyed:hey:I think Aaron attacking us should be enough to tell you..
+:nard:annoyed:hey:I know not everyone playing would connect the dots but... come on....
+:gf:explaining:hey:You seem stressed, can we help in any way?
+:nard:considering:hey:Hm... lets try singing, in a friendly way.
+:bf:excited:hey:Alright! All the rage in your chest is ought to get out some good rhythm.
+:nard:annoyed:hey:Hey I'm supposed to be the self aware one!

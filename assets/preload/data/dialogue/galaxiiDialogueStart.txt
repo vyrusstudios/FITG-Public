@@ -1,0 +1,27 @@
+:nova:condescending:hey:En..
+:nova:condescending:hey:Charlie...
+:nova:angry:hey:What in the name of Fai are you doing?
+:nova:angry:hey:Haven't I told you to treat guests with the utmost respect?
+:en:worried:hey:We're so sorry Ms. Nova, but we can explai-
+:nova:annoyed:hey:Yeah, "you can explain", thats what RIP said.
+:en:awkward:hey:I understand.
+:nova:idle:hey:I'll give you until tonight to pack your things and leave.
+:nova:idle:hey:I'll wait to hear from Charlie since she... seems to not be with us at the moment.
+:nova:apologetic:hey:Guests, I'm so sorry that these idiots treated you the way they did.
+:nova:apologetic:hey:Is there anything we can do to make it up to you?
+:gf:excited:hey:Well yes, actually!
+:bf:explaining:hey:We need access to the servers, my girl here's parents aren't happy with one of your games.
+:bf:explaining:hey:We were wondering if we could have it taken down?
+:nova:pleased:hey:Oh of course!
+:nova:angry:hey:NOT.
+:nova:angry:hey:All our games are making big sales right now, we NEED this money.
+:nova:angry:hey:I wouldn't care if one of them had something that'd have Twitter lighting us up like a bunch'a twigs.
+:nova:annoyed:hey:I can't believe you'd even suggest that!
+:bf:explaining:hey:Well, I know a way we could work this out.
+:bf:explaining:hey:You know how I've mentioned my girl's parents?
+:bf:explaining:hey:Well, I've learned a thing or two from them.
+:bf:confused:hey:Perhaps a rap battle is in order?
+:bf:excited:hey:Afterall, if you can beat ME, you can prove you really are better than those employees of your's!
+:nova:smug:hey:That isn't a half bad idea, kid.
+:nova:surprised:hey:Lets do this!
+:none:none:none:Hitting a notecore will do large amounts of damage!

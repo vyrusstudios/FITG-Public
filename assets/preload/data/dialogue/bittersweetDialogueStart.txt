@@ -1,0 +1,27 @@
+:bf:excited:gearsva2:Well, that was convenient, we managed to out-sing the security system!
+:gf:confused:gearsva2:Yeah, I wonder who'd build a karaoke mode into a defense robot anyway....
+:charlie:shaded:gearsva2:Who the funk are you and what do you THINK you're doing here?!
+:gf:explaining:gearsva2:Well, I-
+:charlie:flustered:gearsva2:AND WHAT DID YOU DO TO AARON?!
+:bf:confused:gearsva2:Aaron? Don't you think thats kind of a sweet name for such a scary robot?
+:charlie:flustered:gearsva2:Th-that's besides the point! I don't know who you think you are, but...
+:charlie:threat:gearsva8:you have a lot of nerve to step up in here and start destroying my things.
+:gf:explaining:gearsva9:Well actually, me and my boyfriend were just here to talk to you about something.
+:charlie:smug:gearsva2:And well, what would that be?
+:bf:explaining:gearsva2:Well ma'am, we were just here to have you take down a game that my girlfriend's parents weren't fond of.
+:charlie:smug:gearsva2:Oh! That's who you two are! I knew I recognized that blue hair somewhere.
+:charlie:smug:gearsva3:Well, you seem nice, but that doesn't make up for the damage you did to Aaron right here,
+:charlie:idle:gearsva4:..nor the breaking and entering.
+:charlie:considering:gearsva5:But I think I know something that would excuse y'all.
+:gf:confused:gearsva6:And that would be....?
+:charlie:surprised:gearsva7:You, silly!
+:gf:scared:gearsva8:WHAT?
+:bf:scared:gearsva9:HUH?
+:charlie:smug:gearsva2:What? I don't see any issue, your boyfriend's just a runt anyway! The only thing he can do is sing!
+:charlie:considering:gearsva2:Actually..... that gives me an idea..
+:charlie:smug:gearsva2:Aight, let's rap it out. If you win, you keep the girl and resist the charges.
+:charlie:smug:gearsva3:And if I win, I'm taking your girl and getting you arrested!
+:bf:excited:gearsva4:Aight, bet.
+:gf:excited:gearsva5:Bring it on!
+:none:none:none:Hitting an ivy note will give you a lasting damage effect!
+:none:none:none:The more you hit, the stronger it is and the longer it lasts.

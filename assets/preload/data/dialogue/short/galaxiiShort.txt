@@ -1,0 +1,13 @@
+:nova:condescending:hey:En, Charlie...?
+:nova:angry:hey:What in the name of Fai are you doing?
+:en:worried:hey:We're sorry!-
+:nova:annoyed:hey:Enough. You have until midnight to pack your things.
+:nova:idle:hey:And for Charlie, we'll discuss that later...
+:nova:apologetic:hey:I am so sorry! Is there anything I can do for you two?
+:gf:excited:hey:Why yes! We were actually wondering if we could get you to take down one of your games?
+:nova:pleased:hey:Of course!
+:nova:angry:hey:NOT.
+:nova:angry:hey:You can't just expect to come in here and ask for one of our games to be taken down!
+:bf:explaining:hey:Actually, I think I know a way we could work this out.
+:bf:excited:hey:Me vs you, in a rap battle.
+:nova:smug:hey:Not a bad idea...

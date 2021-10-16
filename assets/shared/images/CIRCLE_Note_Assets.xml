@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CIRCLE_Note_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bittersweet0000" x="0" y="0" width="35" height="37"/>
+	<SubTexture name="Down0000" x="35" y="0" width="26" height="27"/>
+	<SubTexture name="Gear0000" x="61" y="0" width="28" height="28"/>
+	<SubTexture name="Left0000" x="89" y="0" width="26" height="27"/>
+	<SubTexture name="Receptor0000" x="0" y="37" width="26" height="27"/>
+	<SubTexture name="Right0000" x="26" y="37" width="26" height="27"/>
+	<SubTexture name="Up0000" x="52" y="37" width="26" height="27"/>
+</TextureAtlas>

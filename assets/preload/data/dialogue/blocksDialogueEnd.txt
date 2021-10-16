@@ -1,0 +1,8 @@
+:nathan:pointing:hey:Hey, kid!
+:bf:confused:hey:Huh?
+:nathan:explaining:hey:Come with me, I can get you somewhere safe.
+:nova:angry:hey:Nathan, you WILL stop that this instant!
+:nova:condescending:hey:What would Dave think of this behavior?
+:nathan:worried:hey:Come on you two, we need to get out fast!
+:gf:awkward:hey:Who are you? Whats going on?
+:nathan:idle:hey:No time to explain.

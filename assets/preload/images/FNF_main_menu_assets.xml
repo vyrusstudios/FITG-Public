@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="documents basic0000" x="0" y="0" width="579" height="79"/>
+	<SubTexture name="documents white0000" x="0" y="79" width="702" height="79"/>
+	<SubTexture name="epilogues basic0000" x="0" y="158" width="581" height="79"/>
+	<SubTexture name="epilogues white0000" x="0" y="237" width="700" height="79"/>
+	<SubTexture name="freeplay basic0000" x="0" y="316" width="516" height="79"/>
+	<SubTexture name="freeplay white0000" x="0" y="395" width="631" height="79"/>
+	<SubTexture name="options basic0000" x="0" y="474" width="451" height="79"/>
+	<SubTexture name="options white0000" x="0" y="553" width="600" height="79"/>
+	<SubTexture name="story mode basic0000" x="0" y="632" width="648" height="79"/>
+	<SubTexture name="story mode white0000" x="0" y="711" width="760" height="79"/>
+</TextureAtlas>

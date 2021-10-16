@@ -1,0 +1,12 @@
+:gf:excited:gearsva1:Wow, this place sure was easy to break into!
+:bf:excited:gearsva2:It sure was, The Girlfriend!
+:bf:shaded:gearsva3:But man, the journey here wasn't. I dont think I EVER want to face that demon cat again.
+:gf:excited:gearsva4:Sure is a good thing they don't seem to have any security systems!
+:bf:confused:gearsva5:I know, right? Seems odd, though-
+:aaron:idle:gearsva6:THREAT DETECTED
+:gf:scared:gearsva7:AAAAAAAH!
+:bf:scared:gearsva8:EEEEEEEEH!
+:aaron:excited:gearsva9:KARAOKE MODE ACCEPTED.
+:gf:confused:gearsva10:Well, that's convenient.
+:none:none:none:Watch out for gear notes! Hitting them increases the scroll speed
+:none:none:none:While missing them decreases the scroll speed.
